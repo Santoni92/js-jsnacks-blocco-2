@@ -32,7 +32,7 @@ console.log('Il secondo array é: ' + array2);
                                                                     elementi pari alla differenza tra le rispettive quantità di elementi)*/
                                                                     
     {
-        array2.push(i); //non creo elementi random (non mi va) ma semplicemento aggiungo all'array2 il valore del contatore del ciclo
+        array2.push(i); //non creo elementi random ma semplicemento aggiungo all'array2 il valore del contatore del ciclo
     }
     console.log("Dopo l'aggiunta di elementi al secondo array, i due array vengono ad avere la stessa quantità di elementi" );
     console.log('Array 1 risulta: ' + array1);
